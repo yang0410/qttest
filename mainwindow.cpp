@@ -18,4 +18,5 @@ void MainWindow::on_pushButtonTest_clicked()
 {
     qDebug("aaaaa");
     qDebug("bbbb");
+    qDebug("master_son");
 }
