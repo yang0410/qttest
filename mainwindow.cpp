@@ -17,4 +17,5 @@ MainWindow::~MainWindow()
 void MainWindow::on_pushButtonTest_clicked()
 {
     qDebug("aaaaa");
+    qDebug("bbbb");
 }
